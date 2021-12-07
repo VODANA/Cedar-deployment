@@ -1,3 +1,3 @@
 # Cedar-deployment
 
-This is a deployment documentation of CEDAR Platform on Ubuntu. 
+This is a deployment documentation of CEDAR Develeoper Installation Mode on Ubuntu. 
